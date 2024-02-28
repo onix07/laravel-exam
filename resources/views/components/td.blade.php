@@ -1,0 +1,1 @@
+<td class="p-2 border text-sm">{{$slot}}</td>
